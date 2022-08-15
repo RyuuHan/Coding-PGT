@@ -1,0 +1,21 @@
+1. cd (set location) menyetel lokasi kerja saat ini.
+2. clc (clear content) menghapus konten item tapi tidak menghapus item.
+3. cls (clear host) membersihkan tampilah program host.
+4. dir (get Childltrem) mendapatkan file dan folder dalam drive sistem file.
+5. echo (write output)mengirim objek yang ditentukan ke perintah berikutnya dalam paperline.
+ atau jika perintah terakhir dalam paperline, objek akan ditampilkan ditampilkan di konsol.
+6. erase (remove item) menghapus file dan foler.
+7. gc (get content) mendapatkan isi file.
+8. history (get history) mendapatkan daftar perintah yang dimasukan selama sesi saat ini.
+9. mkdir (make directory) membuat item folder baru.
+10. move (move item) memindahkan item dari satu lokasi ke lokasi lainnya.
+11. ni (New-Item) membuat item file baru.
+12. sal (Set alias) membuat atau merubah alias atau nama alternatif untuk cmdlet atau elemen perintah lainnya di sesi windows powershell saat ini.
+13. sc (Set-content) mengganti konten file dengan konten yang ditentukan.
+14. select (select object) memilih properti objek atau objek.
+15. rnp (rename-itemProperty) mengganti nama property item
+16. rp (remove-Itemproperty) mengahapus properti item.
+17. pwd (Get location) mendapatkan informasi tentang lokasi kerja atau tumpukan lokasi saat ini.
+18. r (invoke-History) menjalankan perintah dari riwayat sesi.
+19. nal (New-alias) membuat alias baru.
+20. mv (move-item) memindahkan item dari satu lokasi ke lokasi yang lain.
